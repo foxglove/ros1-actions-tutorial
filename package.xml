@@ -1,5 +1,5 @@
-<buildtool_depend>rosidl_default_generators</buildtool_depend>
+<depend>rospy</depend>
 
-<depend>action_msgs</depend>
+<depend>actionlib</depend>
 
-<member_of_group>rosidl_interface_packages</member_of_group>
+<depend>actionlib_msgs</depend>
